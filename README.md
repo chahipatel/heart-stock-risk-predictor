@@ -2,9 +2,9 @@
 
 ## 📘 Project Description
 
-Heart Stock Risk Predictor is a Machine Learning-powered healthcare application designed to predict the likelihood of heart disease based on patient health parameters. The project utilizes an XGBoost Classifier trained on a Kaggle and provides real-time predictions through an interactive Streamlit web application.
+Heart Stock Risk Predictor is a Machine Learning powered healthcare application designed to predict the likelihood of heart disease based on patient health parameters. The project utilizes an XGBoost Classifier trained on a Kaggle and provides real time predictions through an interactive Streamlit web application.
 
-The objective of this project is to demonstrate a complete end-to-end Machine Learning workflow, including data collection, preprocessing, exploratory data analysis, model selection, hyperparameter tuning, evaluation, and deployment. Users can enter patient information such as age, cholesterol level, blood pressure, chest pain type, and other clinical indicators to instantly assess potential heart disease risk.
+The objective of this project is to demonstrate a complete end to end Machine Learning workflow, including data collection, preprocessing, exploratory data analysis, model selection, hyperparameter tuning, evaluation, and deployment. Users can enter patient information such as age, cholesterol level, blood pressure, chest pain type, and other clinical indicators to instantly assess potential heart disease risk.
 
 This project showcases how Artificial Intelligence and Machine Learning can assist in healthcare analytics and support early risk assessment.
 
@@ -12,15 +12,15 @@ This project showcases how Artificial Intelligence and Machine Learning can assi
 
 # ✨ Features
 
-* ⚡ Real-Time Prediction Results
+* ⚡ Real Time Prediction Results
 * 🤖 XGBoost-Based Classification Model
 * 📊 Interactive Streamlit Web Interface
-* 📝 User-Friendly Input Form
+* 📝 User Friendly Input Form
 * 🔄 Automated Data Preprocessing
 * 📈 Machine Learning Model Optimization
 * 💾 Model Persistence Using Joblib
 * ☁️ Cloud Deployment with Streamlit Community Cloud
-* 📱 Responsive and Easy-to-Use Interface
+* 📱 Responsive and Easy to Use Interface
 
 ---
 
@@ -39,19 +39,19 @@ This project showcases how Artificial Intelligence and Machine Learning can assi
 
 ## Machine Learning
 
-* Scikit-Learn
+* Scikit Learn
 * XGBoost
 
 ## Model Selection & Optimization
 
-* Train-Test Split
+* Train Test Split
 * Cross Validation
 * GridSearchCV
 
 ## Data Preprocessing
 
 * StandardScaler
-* One-Hot Encoding
+* One Hot Encoding
 * Feature Engineering
 
 ## Model Persistence
@@ -85,7 +85,7 @@ The dataset contains important clinical and medical attributes used to predict c
 * Fasting Blood Sugar
 * Resting ECG
 * Maximum Heart Rate
-* Exercise-Induced Angina
+* Exercise Induced Angina
 * Oldpeak
 * ST Slope
 
@@ -154,7 +154,7 @@ Multiple Machine Learning models were tested and compared:
 
 * GridSearchCV used for optimization
 * Parameter combinations tested
-* Best-performing configuration selected
+* Best performing configuration selected
 
 ## 10. Model Evaluation
 
