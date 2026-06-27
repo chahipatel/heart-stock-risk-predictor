@@ -13,7 +13,7 @@ This project showcases how Artificial Intelligence and Machine Learning can assi
 # ✨ Features
 
 * ⚡ Real Time Prediction Results
-* 🤖 XGBoost-Based Classification Model
+* 🤖 XGBoost Based Classification Model
 * 📊 Interactive Streamlit Web Interface
 * 📝 User Friendly Input Form
 * 🔄 Automated Data Preprocessing
@@ -126,7 +126,7 @@ The dataset was cleaned, analyzed, transformed, and prepared before model traini
 
 ## 5. Feature Engineering
 
-* One-Hot Encoding
+* One Hot Encoding
 * Feature Transformation
 * Feature Selection
 
@@ -144,7 +144,7 @@ The dataset was cleaned, analyzed, transformed, and prepared before model traini
 Multiple Machine Learning models were tested and compared:
 
 * Logistic Regression
-* K-Nearest Neighbors (KNN)
+* K Nearest Neighbors (KNN)
 * Decision Tree
 * Random Forest
 * Support Vector Machine (SVM)
